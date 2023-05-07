@@ -3,8 +3,8 @@
 | Identificación del proyecto
 |-----------
 | Fundamentos de Ingeniería de Software
-ID M4A - Docente:_____
-Estudiantes: ____
+ID M4A - Docente:Martin Solari
+Estudiantes: Lorenzo Viglietti (279445)
 
 [Letra](letra.md)
 
